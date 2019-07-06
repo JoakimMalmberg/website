@@ -1,8 +1,0 @@
-Vestibulum facilisis, purus nec pulvinar iaculis, ligula mi congue nunc, vitae euismod ligula urna in dolor. 
-Cras risus ipsum, faucibus ut, ullamcorper id, varius ac, leo. 
-Maecenas ullamcorper, dui et placerat feugiat, eros pede varius nisi, condimentum viverra felis nunc et lorem. 
-Vestibulum volutpat pretium libero.
-
-Aliquam lobortis. Donec mi odio, faucibus at, scelerisque quis, convallis in, nisi. Pellentesque egestas, 
-neque sit amet convallis pulvinar, justo nulla eleifend augue, ac auctor orci leo non est. Donec orci lectus, aliquam ut, 
-faucibus non, euismod id, nulla.
